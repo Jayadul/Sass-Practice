@@ -1,0 +1,11 @@
+body {
+  background-color: #f3f3f1; }
+  body p {
+    color: #000; }
+  body h3 {
+    color: #b9f0de; }
+  body span {
+    color: #000;
+    height: 10px; }
+  body h1 {
+    height: 10px; }
